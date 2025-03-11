@@ -4,6 +4,7 @@ class hemanth
 	{
 		System.out.println("hello world")
 		System.out.println("welcome to spt")
+		System.out.println("computer science department")
 	}       
 }
 
